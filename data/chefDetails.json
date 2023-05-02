@@ -1,8 +1,8 @@
 [
   {
     "chef": {
-      "id": 1,
-      "picture": "chef1.jpg",
+      "id": "1",
+      "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       "name": "John Smith",
       "description": "John Smith has been cooking professionally for 10 years and specializes in French cuisine.",
       "years_of_experience": 10,
@@ -71,9 +71,9 @@
   },
   {
     "chef": {
-      "id": 2,
-      "picture": "chef2.jpg",
-      "name": "John Doe",
+      "id": "2",
+      "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "name": "Jane Doe",
       "description": "John Smith has been cooking professionally for 10 years and specializes in French cuisine.",
       "years_of_experience": 8,
       "num_recipes": 40,
@@ -141,8 +141,8 @@
   },
   {
     "chef": {
-      "id": 3,
-      "picture": "chef3.jpg",
+      "id": "3",
+      "picture": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fGNoZWZzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
       "name": "David Lee",
       "description": "John Smith has been cooking professionally for 10 years and specializes in French cuisine.",
       "years_of_experience": 15,
@@ -207,10 +207,9 @@
   },
   {
     "chef": {
-      "id": 4,
-      "picture": "chef4.jpg",
+      "id": "4",
+      "picture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNoZWZzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "name": "Karen Chen",
-      "description": "John Smith has been cooking professionally for 12 years and specializes in French cuisine.",
       "years_of_experience": 12,
       "num_recipes": 55,
       "likes": 250
@@ -273,8 +272,8 @@
   },
   {
     "chef": {
-      "id": 5,
-      "picture": "chef5.jpg",
+      "id": "5",
+      "picture": "https://media.istockphoto.com/id/1391235635/photo/portrait-of-black-female-chef-preparing-dish-tasting-food-and-enjoying-it-professional.jpg?b=1&s=170667a&w=0&k=20&c=oIDpaUFUuj3cFrELlrJgJvftBOZrYCWoLeEWjOQ_Q-c=",
       "name": "Michael Kim",
       "description": "John Smith has been cooking professionally for 15 years and specializes in French cuisine.",
       "years_of_experience": 7,
@@ -339,8 +338,8 @@
   },
   {
     "chef": {
-      "id": 6,
-      "picture": "chef6.jpg",
+      "id": "6",
+      "picture": "https://images.unsplash.com/photo-1512485800893-b08ec1ea59b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzV8fGNoZWZzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "name": "Amanda Rodriguez",
       "description": "John Smith has been cooking professionally for 15 years and specializes in French cuisine.",
       "years_of_experience": 5,

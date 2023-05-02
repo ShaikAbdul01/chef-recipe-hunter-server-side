@@ -18,13 +18,13 @@ app.get("/details", (req, res) => {
 app.get("/details/:id", (req, res) => {
   const id = req.params.id;
   console.log(id);
-  const selecteId = chefDetails.find((detail) => detail.chef.id == id);
+  const selecteId = chefDetails.find((detail) => detail.chef.id === id);
   res.send(selecteId);
 });
 app.get("/chefs/:id", (req, res) => {
   const id = req.params.id;
   console.log(id);
-  const selecteId = chefDetails.filter((data) => data.chef.id == id);
+  const selecteId = chefDetails.filter((data) => data.chef.id === id);
   res.send(selecteId);
 });
 app.listen(port, () => {
