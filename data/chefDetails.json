@@ -1,0 +1,406 @@
+[
+  {
+    "chef": {
+      "id": 1,
+      "picture": "chef1.jpg",
+      "name": "John Smith",
+      "description": "John Smith has been cooking professionally for 10 years and specializes in French cuisine.",
+      "years_of_experience": 10,
+      "num_recipes": 50,
+      "likes": 200
+    },
+    "recipes": [
+      {
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": [
+          "1 chicken",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Croissants",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "chef": {
+      "id": 2,
+      "picture": "chef2.jpg",
+      "name": "John Doe",
+      "description": "John Smith has been cooking professionally for 10 years and specializes in French cuisine.",
+      "years_of_experience": 8,
+      "num_recipes": 40,
+      "likes": 150
+    },
+    "recipes": [
+      {
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": [
+          "1 chicken",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Croissants",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "chef": {
+      "id": 3,
+      "picture": "chef3.jpg",
+      "name": "David Lee",
+      "description": "John Smith has been cooking professionally for 10 years and specializes in French cuisine.",
+      "years_of_experience": 15,
+      "num_recipes": 60,
+      "likes": 300
+    },
+    "recipes": [
+      {
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": [
+          "1 chicken",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Croissants",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "chef": {
+      "id": 4,
+      "picture": "chef4.jpg",
+      "name": "Karen Chen",
+      "description": "John Smith has been cooking professionally for 12 years and specializes in French cuisine.",
+      "years_of_experience": 12,
+      "num_recipes": 55,
+      "likes": 250
+    },
+    "recipes": [
+      {
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": [
+          "1 chicken",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Croissants",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "chef": {
+      "id": 5,
+      "picture": "chef5.jpg",
+      "name": "Michael Kim",
+      "description": "John Smith has been cooking professionally for 15 years and specializes in French cuisine.",
+      "years_of_experience": 7,
+      "num_recipes": 30,
+      "likes": 100
+    },
+    "recipes": [
+      {
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": [
+          "1 chicken",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Croissants",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "chef": {
+      "id": 6,
+      "picture": "chef6.jpg",
+      "name": "Amanda Rodriguez",
+      "description": "John Smith has been cooking professionally for 15 years and specializes in French cuisine.",
+      "years_of_experience": 5,
+      "num_recipes": 25,
+      "likes": 80
+    },
+    "recipes": [
+      {
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": [
+          "1 chicken",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Croissants",
+        "ingredients": [
+          "1 kg beef chuck roast",
+          "200 g bacon",
+          "2 onions",
+          "2 carrots",
+          "2 cloves garlic",
+          "1 bottle red wine",
+          "2 cups beef stock",
+          "2 tbsp tomato paste",
+          "1 tbsp thyme",
+          "1 tbsp rosemary",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 350°F. 2. Cut the beef into large cubes and season with salt and pepper. 3. In a Dutch oven, cook the bacon until crispy. 4. Remove the bacon and set aside. 5. In the same pot, brown the beef on all sides. 6. Remove the beef and set aside. 7. Add the onions, carrots, and garlic to the pot and cook until softened. 8. Add the beef back to the pot along with the bacon, red wine, beef stock, tomato paste, thyme, and rosemary. 9. Bring to a simmer, then cover and transfer to the oven. 10. Bake for 2-3 hours, or until the beef is tender. Serve with crusty bread and mashed potatoes.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  }
+]
